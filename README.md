@@ -1,5 +1,5 @@
 # public.naffs.de
-Here I put my automatic installation scripts, for some docker images, at your disposal. 
+<p align="center"> No advertising, fast, free and secure! We life freedom! We love all creatures! We share our code, projects and services for a better world and more connectivity. Feel free to use our services! </p>
 
 ### Scheduled scripts:
 - [ ] mailcow_and_nextcloud - https://github.com/mailcow/mailcow-dockerized
