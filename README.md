@@ -1,5 +1,5 @@
 # public.naffs.de
-<p align="center"> No advertising, fast, free and secure! We life freedom! We love all creatures! We share our code, projects and services for a better world and more humanity. Feel free to use our services! </p>
+<p align="center"> No advertising, fast, free and secure! We life freedom! We love all creatures! </br> We share our code, projects and services for a better world and more humanity. Feel free to use our services! </p>
 
 ### Scheduled scripts:
 - [ ] mailcow_and_nextcloud - https://github.com/mailcow/mailcow-dockerized
